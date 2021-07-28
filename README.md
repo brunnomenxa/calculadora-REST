@@ -1,8 +1,8 @@
 # Calculadora REST
-Calculadora feita em Javascript usando REST.
+Uma calculadora feita em Javascript usando REST.
 
 ## Finalidade
-Componente curricular da matéria de GQSO do ano letivo de 2021.
+Será usado como componente curricular da matéria de GQSO do ano letivo de 2021.
 
 ## Tecnologias usadas para a criação da calculadora
 * Javascript;
